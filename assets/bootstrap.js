@@ -1,4 +1,5 @@
-import { startStimulusApp } from '@symfony/stimulus-bundle';
+// import { Application } from 'stimulus';
+// import { definitionsFromContext } from 'stimulus/webpack-helpers';
 
 const app = startStimulusApp();
 // register any custom, 3rd party controllers here
